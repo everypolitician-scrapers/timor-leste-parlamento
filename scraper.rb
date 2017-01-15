@@ -46,5 +46,4 @@ def scrape_person(url)
 end
 
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
-scrape_list('http://parlamento.tl/deputadus/2012/pt/deputados.php')
-scrape_list('http://parlamento.tl/deputadus/2012/pt/dp.php')
+scrape_list('http://www.parlamento.tl/deputadus/2012-2017/pt/index.php')
