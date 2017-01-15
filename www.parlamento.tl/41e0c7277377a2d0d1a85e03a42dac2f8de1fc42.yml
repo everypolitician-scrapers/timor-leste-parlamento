@@ -1,0 +1,37 @@
+---
+request:
+  method: get
+  uri: http://www.parlamento.tl/deputadus/2012-2017/biografia/cnrt/cesar_valente.php
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - "*/*"
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Date:
+    - Sun, 15 Jan 2017 08:52:40 GMT
+    Server:
+    - Microsoft-IIS/8.0
+    Cache-Control:
+    - no-cache
+    Content-Type:
+    - text/html
+    Vary:
+    - Accept-Encoding
+    X-Powered-By:
+    - PHP/5.5.36
+    Content-Length:
+    - '3912'
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Sun, 15 Jan 2017 08:52:41 GMT
