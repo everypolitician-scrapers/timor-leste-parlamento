@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 05 Jul 2017 03:27:45 GMT
+    - Thu, 06 Jul 2017 23:23:13 GMT
     Server:
     - Microsoft-IIS/8.0
     Cache-Control:
@@ -34,4 +34,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 05 Jul 2017 03:27:45 GMT
+recorded_at: Thu, 06 Jul 2017 23:23:14 GMT
