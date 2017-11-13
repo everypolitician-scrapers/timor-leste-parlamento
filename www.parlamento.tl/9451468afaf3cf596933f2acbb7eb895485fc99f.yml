@@ -18,20 +18,28 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 09 Nov 2017 05:38:51 GMT
-    Server:
-    - Microsoft-IIS/8.0
-    Cache-Control:
-    - no-cache
+    - Mon, 13 Nov 2017 10:56:11 GMT
     Content-Type:
     - text/html
+    Transfer-Encoding:
+    - chunked
+    Connection:
+    - keep-alive
+    Set-Cookie:
+    - __cfduid=de46bc104e9ee6d359fd5a695a2f1048b1510570571; expires=Tue, 13-Nov-18
+      10:56:11 GMT; path=/; domain=.parlamento.tl; HttpOnly
+    Cache-Control:
+    - no-cache
     Vary:
     - Accept-Encoding
     X-Powered-By:
+    - ARR/3.0
     - PHP/5.5.36
-    Content-Length:
-    - '3951'
+    Server:
+    - cloudflare-nginx
+    Cf-Ray:
+    - 3bd133f6f3916dd8-SJC
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 09 Nov 2017 05:38:52 GMT
+recorded_at: Mon, 13 Nov 2017 10:56:12 GMT
