@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Mon, 13 Nov 2017 10:56:06 GMT
+    - Wed, 15 Nov 2017 22:53:07 GMT
     Content-Type:
     - text/html
     Transfer-Encoding:
@@ -26,8 +26,8 @@ response:
     Connection:
     - keep-alive
     Set-Cookie:
-    - __cfduid=dd3371832ce99f6ec87d322727bdf99181510570565; expires=Tue, 13-Nov-18
-      10:56:05 GMT; path=/; domain=.parlamento.tl; HttpOnly
+    - __cfduid=d5667b3290fdeaa23011f97283470b1471510786387; expires=Thu, 15-Nov-18
+      22:53:07 GMT; path=/; domain=.parlamento.tl; HttpOnly
     Cache-Control:
     - no-cache
     Vary:
@@ -38,8 +38,8 @@ response:
     Server:
     - cloudflare-nginx
     Cf-Ray:
-    - 3bd133d411e32804-SJC
+    - 3be5c8e882666d0c-SJC
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 13 Nov 2017 10:56:06 GMT
+recorded_at: Wed, 15 Nov 2017 22:53:07 GMT
